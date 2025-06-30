@@ -1,12 +1,10 @@
 {
   "name": "MyUSDT Token List",
-  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiaud52klte4omqxmfvxxrtvpw2eo6dkjvnxpbatwaql7oczw2uki",
-  "keywords": ["usdt", "stablecoin"],
-  "timestamp": "2025-06-30T00:00:00+00:00",
+  "timestamp": "2025-06-30T18:39:22.058712Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 0
   },
   "tokens": [
     {
