@@ -1,6 +1,8 @@
 {
   "name": "MyUSDT Token List",
-  "timestamp": "2025-06-24T00:00:00+00:00",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiaud52klte4omqxmfvxxrtvpw2eo6dkjvnxpbatwaql7oczw2uki",
+  "keywords": ["usdt", "stablecoin"],
+  "timestamp": "2025-06-30T00:00:00+00:00",
   "version": {
     "major": 1,
     "minor": 0,
@@ -13,7 +15,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiaud52klte4omqxmfvxxrtvpw2eo6dkjvnxpbavtawql7oczw2uki"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiaud52klte4omqxmfvxxrtvpw2eo6dkjvnxpbatwaql7oczw2uki"
     }
   ]
 }
