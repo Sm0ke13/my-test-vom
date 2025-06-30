@@ -1,0 +1,19 @@
+{
+  "name": "MyUSDT Token List",
+  "timestamp": "2025-06-24T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 3
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x8142514242cd8c15bdb2bf2cc757530192b22614",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiaud52klte4omqxmfvxxrtvpw2eo6dkjvnxpbavtawql7oczw2uki"
+    }
+  ]
+}
